@@ -53,3 +53,17 @@ h1 {
     width: 60%;
     transform: rotate(25deg);
 }
+
+.feat-icons {
+    color: #ef8172;
+}
+
+.feat-head {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 1.5rem;
+}
+
+.feat-p {
+    color: #8f8f8f;
+}
