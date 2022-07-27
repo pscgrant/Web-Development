@@ -75,3 +75,7 @@ h1 {
 .feat-icons:hover {
     color: #ff4c68;
 }
+
+.feat-box {
+    padding: 6%;
+}
