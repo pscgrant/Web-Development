@@ -54,6 +54,10 @@ h1 {
     transform: rotate(25deg);
 }
 
+
+/* Features */
+
+
 .feat-icons {
     color: #ef8172;
 }
@@ -66,4 +70,8 @@ h1 {
 
 .feat-p {
     color: #8f8f8f;
+}
+
+.feat-icons:hover {
+    color: #ff4c68;
 }
