@@ -96,7 +96,7 @@ h2 {
     color: #fff;
 }
 
-.testimonial-img {
+.testimonial-img, .testimonial-image {
     width: 10%;
     border-radius: 100%;
     margin: 20px;
