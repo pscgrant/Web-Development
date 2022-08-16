@@ -117,7 +117,7 @@ h2 {
 
 .press-logo {
     width: 15%;
-    margin: 20px 20px 20px 50px;
+    margin: 20px 20px 50px;
 }
 
 
@@ -125,5 +125,9 @@ h2 {
 
 #pricing {
     padding: 100px;
+    text-align: center;
 }
 
+.pricing-column {
+    padding: 3% 2%;
+}
