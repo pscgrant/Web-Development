@@ -22,7 +22,7 @@ h2 {
 }
 
 .container-fluid {
-    padding: 3% 15%;;
+    padding: 3% 15% 7%;
 }
 
 /* Nav Bar */
@@ -60,6 +60,7 @@ h2 {
     width: 60%;
     transform: rotate(25deg);
     position: absolute;
+    right: 30%;
 }
 
 .title-image-container {
