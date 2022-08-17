@@ -59,11 +59,21 @@ h2 {
 .title-image {
     width: 60%;
     transform: rotate(25deg);
+    position: absolute;
+}
+
+.title-image-container {
+    position: relative;
 }
 
 
 /* Features */
 
+#features {
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+}
 
 .feat-icons {
     color: #ef8172;
