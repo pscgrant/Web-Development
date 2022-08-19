@@ -158,3 +158,23 @@ h2 {
         position: static;
     }
 }
+
+#cta {
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 100px;
+}
+
+.h3-end-text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+    color: #fff;
+}
+
+#footer {
+    background-color: #fff;
+    text-align: center;
+    padding: 100px;
+}
