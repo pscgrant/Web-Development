@@ -165,6 +165,10 @@ h2 {
     padding: 100px;
 }
 
+.cta-icons {
+    padding-right: 7px;
+}
+
 .h3-end-text {
     font-family: 'Montserrat', sans-serif;
     font-size: 3.5rem;
